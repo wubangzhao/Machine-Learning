@@ -1,4 +1,9 @@
-twitter_sentiment_challenge
+Sentiment Analysis - Understanding and Extracting Feelings from Data
+An API lets you access an apps functionality from youe code
+TextBlob is awesome for NLP tasks
+
+
+twitter_sentiment
 Twitter Sentiment Analysis Challenge for Learn Python for Data Science #2 by @Sirajology on Youtube
 
 ##Overview
