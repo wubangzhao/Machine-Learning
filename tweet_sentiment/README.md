@@ -18,4 +18,4 @@ Once you have your dependencies installed via pip, run the script in terminal vi
 python demo.py
 ##Challenge
 
-Instead of printing out each tweet, save each Tweet to a CSV file with an associated label. The label should be either 'Positive' or 'Negative'. You can define the sentiment polarity threshold yourself, whatever you think constitutes a tweet being positive/negative. Push your code repository to github then post it in the comments. I'll give the winner a shoutout a week from now!
+Instead of printing out each tweet, save each Tweet to a CSV file with an associated label. The label should be either 'Positive' or 'Negative'. You can define the sentiment polarity threshold yourself, whatever you think constitutes a tweet being positive/negative. 
