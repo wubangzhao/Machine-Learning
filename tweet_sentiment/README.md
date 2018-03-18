@@ -1,5 +1,7 @@
 Sentiment Analysis - Understanding and Extracting Feelings from Data
+
 An API lets you access an apps functionality from youe code
+
 TextBlob is awesome for NLP tasks
 
 
